@@ -139,7 +139,7 @@ div.overlay {
 @media (max-width: 600px) 
 {
   .quote-block {
-    width: 100%;
+    width: 90%;
   }
   .container {
     width: 100%;
